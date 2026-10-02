@@ -15,9 +15,9 @@ Me chamo **Gustavo Bitencourt**, tenho 19 anos e sou de **São Paulo**. Estudo *
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/GustavoBitencourtLopes?tab=followers">
-    <img src="https://img.shields.io/github/followers/GustavoBitencourtLopes?style=for-the-badge&logo=github&label=Seguidores&color=1f6feb" />
+    
   </a>
-  <img src="https://img.shields.io/github/stars/GustavoBitencourtLopes?style=for-the-badge&label=Estrelas&color=e3b341" />
+
 </p>
 
 ---
