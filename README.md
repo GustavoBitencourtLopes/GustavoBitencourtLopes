@@ -8,10 +8,10 @@ Me chamo **Gustavo Bitencourt**, tenho 19 anos e sou de **São Paulo**. Estudo *
   <a href="https://www.linkedin.com/in/gustavo-bitencourt-lopes-b765072b5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="SEU_LINK_DO_PORTFOLIO">
+  <a href="https://portfolio-gustavo-bitencourt.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:bitencourtgustavo007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/GustavoBitencourtLopes?tab=followers">
