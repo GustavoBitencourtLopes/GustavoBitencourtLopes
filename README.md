@@ -31,8 +31,8 @@ Me chamo **Gustavo Bitencourt**, tenho 19 anos e sou de **São Paulo**. Estudo *
 <h2>📊 Estatísticas</h2>
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoBitencourtLopes&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBitencourtLopes&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8&custom_title=Tecnologias&hide=jupyter%20notebook" />
+  <img height="180" src="https://github-readme-stats-beta-five-73.vercel.app/api?username=GustavoBitencourtLopes&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats-beta-five-73.vercel.app/api/top-langs/?username=GustavoBitencourtLopes&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8&custom_title=Tecnologias&hide=jupyter%20notebook" />
 </p>
 
 <h2>🚀 Projetos em destaque</h2>
