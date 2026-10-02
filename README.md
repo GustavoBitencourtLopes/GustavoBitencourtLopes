@@ -1,8 +1,6 @@
 <h1>👨‍💻 Gustavo Bitencourt</h1>
 
-<img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-0d1117?style=flat-square&labelColor=0d1117" />
-
-Me chamo **Gustavo Bitencourt**, tenho 19 anos e sou de **São Paulo**. Estudo **Ciência da Computação na FIAP** e atuo como Jovem Aprendiz na **Aramis**, na área de Expansão de Franquias. Gosto de construir aplicações **full-stack com Python e Flask** e de integrar **IA generativa** nos meus projetos. Liderei a equipe do **ChargeGrid Intelligence**, que ficou entre os **20 melhores de mais de 70 times** no FIAP EV Challenge 2026 × GoodWe. Atualmente, estou em busca do meu **primeiro estágio em TI**. 🚀
+Me chamo **Gustavo Bitencourt**, tenho 18 anos e sou de **São Paulo**. Estudo **Ciência da Computação na FIAP** e atuo como Jovem Aprendiz na **Aramis**, na área de Expansão de Franquias. Gosto de construir aplicações **full-stack com Python e Flask** e de integrar **IA generativa** nos meus projetos. Atualmente, estou em busca do meu **primeiro estágio em TI**. 🚀
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-bitencourt-lopes-b765072b5">
